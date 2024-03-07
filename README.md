@@ -1,6 +1,6 @@
 👋 Hi, I’m Kelly!
 -------------------------------
-- 👀 I’m enthusiastic about transforming data into actionable insights!  
+- 👀 I’m enthusiastic about analyzing data and transforming it into actionable insights!  
 - 🌱 I’m currently pursuing a [Master of Management in Analytics at McGill University](https://www.mcgill.ca/desautels/programs/mma).    
 - 📊 I have 4 years of experience in market research and marketing within consumer goods industry, equipped me with ability to thrive in fast-paced environments.   
 - 📫 Feel free to reach me: pei-min.kao@mail.mcgill.ca or peiminkao0521@gmail.com    
